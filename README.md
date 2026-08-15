@@ -46,6 +46,3 @@ To run this project:
 5. The notebook will run end-to-end without errors, outputting the training progress, final accuracies, and a loss curve visualization[cite: 1].
 
 ---
-
-## Declaration
-I, Rushikesh Hande, confirm that the work submitted in this assignment is my own and has been completed following academic integrity guidelines[cite: 1].
